@@ -46,6 +46,6 @@ disney-plus-analysis/
 
 ## 🙋‍♂️ Author
 
-**Your Name Here**  
+Camron Njock  
 BSc Data Science @ National College of Ireland  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | [GitHub](https://github.com/cam-spec)
