@@ -40,6 +40,7 @@ Includes metadata: title, type, rating, genres, and release dates
 
 ---
 📊 Dashboard Features
+
 Feature	Description
 🎛️ Sidebar filters	Filter by year, type, genre
 📊 Visual Tabs	Neatly separates insights into sections
