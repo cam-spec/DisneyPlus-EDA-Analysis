@@ -102,6 +102,15 @@ Each notebook complements the dashboard by showing the behind-the-scenes develop
 ![image](https://github.com/user-attachments/assets/dedd5f26-92ce-41cf-b80a-ae902800d323)
 
 
+---
+## 🚀 Next Steps
+
+- Integrate a recommendation model based on user preferences
+- Use a content-based filtering approach
+- Add more metadata (runtime, countries, languages)
+
+
+
 
 🧑‍💻 Author
 
