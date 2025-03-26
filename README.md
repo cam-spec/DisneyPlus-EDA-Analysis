@@ -44,7 +44,17 @@ Includes metadata: title, type, rating, genres, and release dates
 
 🔗 [Check out the Streamlit Dashboard](https://share.streamlit.io/your-link) *(replace with your actual deployment link)*
 
+
+
+
+
+
+
 ---
+🧑‍💻 Author
+Camron Njock
+🎓 BSc Data Science @ National College of Ireland
+[🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
 
 ## 🗂️ Folder Structure
 
@@ -68,7 +78,3 @@ disneyplus_dashboard/
 - Jupyter Notebook
 
 
-🧑‍💻 Author
-Camron Njock
-🎓 BSc Data Science @ National College of Ireland
-[🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
