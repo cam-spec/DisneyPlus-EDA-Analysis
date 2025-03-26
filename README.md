@@ -29,7 +29,7 @@ Includes metadata: title, type, rating, genres, and release dates
 | Phase 1 | Setup, Data Cleaning, GitHub Init | March 16–17 |
 | Phase 2 |Exploratory Data Analysis | March 18–22 |
 | Phase 3 | Dashboard Development & Interactivity | 	March 23–25 |
-| Phase 4 |Final Touches & Deployment | March 25|
+| Phase 4 |Final Touches & Deployment | March 27|
 
 # 📺 DisneyPlus EDA & Interactive Dashboard
 
@@ -60,9 +60,10 @@ Feature	Description
 🎨 Netflix-style Theme	Custom dark theme for a polished feel
 
 ---
-🕒 Animated Timeline Preview  
+### 🎞️ Animated Timeline Preview
 
-![Animated Timeline Preview](./animated_timeline_preview.png)
+<img src="animated_timeline_preview.png" alt="Animated Timeline Preview" width="80%"/>
+
 
 
 ---
