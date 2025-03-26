@@ -62,7 +62,7 @@ Feature	Description
 
 ## 🚀 Live App
 
-🔗 [Check out the Streamlit Dashboard](https://share.streamlit.io/your-link) *(replace with your actual deployment link)*
+🔗 [Check out the Streamlit Dashboard](https://disneyplus-eda-analysis-gfyfny4vyfxhmd5lzb6ywg.streamlit.app)
 
 
 🔧 Tools & Libraries Used
