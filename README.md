@@ -24,8 +24,8 @@ Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 > **Exploratory Data Analysis** + **Interactive Dashboard** on Disney+ Movies & TV Shows using Python and Streamlit.
 
 ![Dashboard Screenshot]
+
 ![image](https://github.com/user-attachments/assets/4179a891-cebb-4226-b47c-586d2daefc08)
--- Optional: Replace with your own image/GIF link -->
 
 ---
 
