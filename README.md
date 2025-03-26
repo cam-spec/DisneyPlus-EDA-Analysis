@@ -1,4 +1,5 @@
-[README_notebook_section.md](https://github.com/user-attachments/files/19473972/README_notebook_section.md)# 📺 DisneyPlus-EDA-Analysis
+
+# 📺 DisneyPlus-EDA-Analysis
 
 Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 
