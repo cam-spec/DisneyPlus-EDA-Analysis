@@ -39,6 +39,18 @@ Includes metadata: title, type, rating, genres, and release dates
 ![image](https://github.com/user-attachments/assets/4179a891-cebb-4226-b47c-586d2daefc08)
 
 ---
+📊 Dashboard Features
+Feature	Description
+🎛️ Sidebar filters	Filter by year, type, genre
+📊 Visual Tabs	Neatly separates insights into sections
+🧠 Insights beside charts	Clear takeaways throughout
+📈 Animated Timeline (Plotly)	See how Disney+ grew by year
+🤖 Mood-Based Recommender	Get genre picks based on how you feel
+🎬 “Surprise Me” Button	Random movie picker with trailer link
+📂 Download Button	Export filtered dataset
+🎨 Netflix-style Theme	Custom dark theme for a polished feel
+
+---
 
 ## 🚀 Live App
 
@@ -46,12 +58,13 @@ Includes metadata: title, type, rating, genres, and release dates
 
 
 
-
+---
 
 
 
 ---
 🧑‍💻 Author
+
 Camron Njock
 🎓 BSc Data Science @ National College of Ireland
 [🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
