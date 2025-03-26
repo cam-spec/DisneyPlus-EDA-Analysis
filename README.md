@@ -88,6 +88,7 @@ streamlit run app.py
 
 Camron Njock
 🎓 BSc Data Science @ National College of Ireland
+
 [🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
 
 ## 🗂️ Folder Structure
