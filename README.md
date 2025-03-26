@@ -91,7 +91,7 @@ streamlit run app.py
 
 ## 🗂️ Folder Structure
 
-```bash
+bash
 disneyplus_dashboard/
 │
 ├── data/                   # Cleaned dataset
@@ -102,7 +102,6 @@ disneyplus_dashboard/
 └── .gitignore
 
 
----
 🧑‍💻 Author
 
 Camron Njock
