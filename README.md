@@ -91,7 +91,10 @@ streamlit run app.py
 
 ## 🗂️ Folder Structure
 
-bash
+## 🗂️ Folder Structure
+
+`bash
+
 disneyplus_dashboard/
 │
 ├── data/                   # Cleaned dataset
@@ -99,8 +102,7 @@ disneyplus_dashboard/
 ├── visuals/               # Exported charts (optional)
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
-└── .gitignore
-
+└── .gitignore 
 
 🧑‍💻 Author
 
