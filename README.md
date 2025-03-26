@@ -87,6 +87,8 @@ GitHub (project hosting and README)
 ---
 📥 How to Run Locally
 
+To explore this project locally, follow these steps 👇
+
 git clone https://github.com/cam-spec/DisneyPlus-EDA-Analysis.git
 
 cd disneyplus_dashboard
