@@ -58,6 +58,17 @@ Feature	Description
 🔗 [Check out the Streamlit Dashboard](https://share.streamlit.io/your-link) *(replace with your actual deployment link)*
 
 
+🔧 Tools & Libraries Used
+Python 3
+
+Pandas, Matplotlib, Seaborn
+
+Plotly, Altair (for animations)
+
+Streamlit (for the dashboard)
+
+GitHub (project hosting and README)
+
 
 ---
 
