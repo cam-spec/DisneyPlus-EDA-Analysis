@@ -61,6 +61,9 @@ Feature	Description
 
 ---
 
+![Animated Timeline Preview](animated_timeline_preview.png)
+
+---
 ## 🚀 Live App
 
 🔗 [Check out the Streamlit Dashboard](https://disneyplus-eda-analysis-gfyfny4vyfxhmd5lzb6ywg.streamlit.app)
@@ -89,7 +92,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-
+---
 
 ## 📓 Notebooks
 
@@ -100,7 +103,7 @@ Explore the step-by-step EDA process and feature experimentation using Jupyter N
 
 Each notebook complements the dashboard by showing behind-the-scenes development and reasoning.
 
-
+---
 
 🧪 Example Output from EDA Notebook – Content Rating Distribution
 
@@ -115,7 +118,7 @@ Each notebook complements the dashboard by showing behind-the-scenes development
 - Add more metadata (runtime, countries, languages)
 
 
-
+---
 
 🧑‍💻 Author
 
