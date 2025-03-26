@@ -89,6 +89,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
+
 ## 📓 Notebooks
 
 Explore the step-by-step EDA process and feature experimentation using Jupyter Notebooks:
@@ -97,6 +98,7 @@ Explore the step-by-step EDA process and feature experimentation using Jupyter N
 - [DisneyPlus_Phase3_FINAL_2.ipynb](disneyplus_dashboard/DisneyPlus_Phase3_FINAL_2.ipynb): Final visualizations, insights, and model logic before deployment to Streamlit.
 
 Each notebook complements the dashboard by showing the behind-the-scenes development and reasoning.ading README_notebook_section.md…]()
+
 
 
 🧑‍💻 Author
