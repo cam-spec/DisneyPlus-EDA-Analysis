@@ -89,21 +89,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 🗂️ Folder Structure
-
-## 🗂️ Folder Structure
-
-`bash
-
-disneyplus_dashboard/
-│
-├── data/                   # Cleaned dataset
-├── app.py                 # Streamlit dashboard app
-├── visuals/               # Exported charts (optional)
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-└── .gitignore 
-
 🧑‍💻 Author
 
 Camron Njock
