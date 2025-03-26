@@ -89,15 +89,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-
----
-🧑‍💻 Author
-
-Camron Njock
-🎓 BSc Data Science @ National College of Ireland
-
-[🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
-
 ## 🗂️ Folder Structure
 
 ```bash
@@ -109,5 +100,15 @@ disneyplus_dashboard/
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 └── .gitignore
+
+
+---
+🧑‍💻 Author
+
+Camron Njock
+🎓 BSc Data Science @ National College of Ireland
+
+[🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
+
 
 
