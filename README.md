@@ -15,9 +15,9 @@ Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 | Phase | Description | Dates |
 |-------|-------------|-------|
 | Phase 1 | Setup, Data Cleaning, GitHub Init | March 16–17 |
-| Phase 2 | Exploratory Data Analysis | Midweek |
-| Phase 3 | Intermediate Analysis | End of Week |
-| Phase 4 | Final Touches & Sharing | March 23 |
+| Phase 2 | Exploratory Data Analysis | end of the week |
+| Phase 3 | Intermediate Analysis | following week |
+| Phase 4 | Final Touches & Sharing | March 25|
 
 ## 📂 Folder Structure
 
