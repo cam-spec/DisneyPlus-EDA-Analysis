@@ -59,11 +59,6 @@ disneyplus_dashboard/
 └── .gitignore
 
 
-## 📊 Dataset
-
-- **Source**: [Disney+ Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
-- Contains metadata on Movies and TV Shows available on Disney+.
-
 ## 🛠️ Tools & Libraries Used
 
 - Python 3
@@ -71,3 +66,9 @@ disneyplus_dashboard/
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+
+🧑‍💻 Author
+Camron Njock
+🎓 BSc Data Science @ National College of Ireland
+[🔗 LinkedIn](https://www.linkedin.com/in/camron-njock-003812262/) | https://github.com/cam-spec
