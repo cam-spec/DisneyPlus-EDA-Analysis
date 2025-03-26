@@ -61,6 +61,7 @@ Feature	Description
 
 ---
 🕒 Animated Timeline Preview  
+
 ![Animated Timeline Preview](./animated_timeline_preview.png)
 
 
