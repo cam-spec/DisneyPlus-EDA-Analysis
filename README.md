@@ -71,6 +71,11 @@ GitHub (project hosting and README)
 
 
 ---
+📥 How to Run Locally
+git clone https://github.com/cam-spec/DisneyPlus-EDA-Analysis.git
+cd disneyplus_dashboard
+pip install -r requirements.txt
+streamlit run app.py
 
 
 
@@ -93,13 +98,5 @@ disneyplus_dashboard/
 ├── requirements.txt       # Python dependencies
 └── .gitignore
 
-
-## 🛠️ Tools & Libraries Used
-
-- Python 3
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
 
