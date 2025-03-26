@@ -1,6 +1,3 @@
-
-# Getting Started
-
 # 📺 DisneyPlus-EDA-Analysis
 
 Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
