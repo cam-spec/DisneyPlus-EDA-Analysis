@@ -3,6 +3,13 @@
 
 Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 
+📦 Dataset
+Source: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+
+Includes metadata: title, type, rating, genres, and release dates
+
+
+
 ## 🎯 Project Goals
 
 - Understand Disney+ content by **type**, **genre**, **rating**, and **release year**
