@@ -95,10 +95,11 @@ streamlit run app.py
 
 Explore the step-by-step EDA process and feature experimentation using Jupyter Notebooks:
 
-- [DisneyPlus EDA Phase2 FIXED.ipynb](DisneyPlus_EDA_Phase2_FIXED.ipynb): Initial exploratory data analysis, cleaning, and feature engineering.
-- [DisneyPlus Phase3 FINAL 2.ipynb](DisneyPlus_Phase3_FINAL_2.ipynb): Final visualizations, insights, and model logic before deployment to Streamlit.
+- [DisneyPlus Phase 2: EDA + Feature Engineering](DisneyPlus_Phase3_FINAL%20(3).ipynb): Final visualizations, modeling ideas, and insights before deployment to Streamlit.
+- [GitHubProject.ipynb](GithubProject%20(1).ipynb): Supporting project analysis and visualization testing.
 
-Each notebook complements the dashboard by showing the behind-the-scenes development and reasoning.
+Each notebook complements the dashboard by showing behind-the-scenes development and reasoning.
+
 
 
 🧪 Example Output from EDA Notebook – Content Rating Distribution
