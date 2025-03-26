@@ -5,10 +5,14 @@ Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 
 ## 🎯 Project Goals
 
-- Understand the distribution of Disney+ content by type, genre, and rating.
-- Analyze trends in content additions over time.
-- Explore popular genres, directors, and countries of origin.
-- Build visualizations to support storytelling and share insights.
+- Understand Disney+ content by **type**, **genre**, **rating**, and **release year**
+- Analyze **trends over time**, and explore top genres
+- Build an **interactive dashboard** for storytelling and insights
+- Add advanced features like:
+  - Mood-based recommendations
+  - Animated timeline 📊
+  - Data download 📂
+  - YouTube trailer links 🎥
 
 ## 🗓️ Project Timeline
 
@@ -32,19 +36,6 @@ Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 ## 🚀 Live App
 
 🔗 [Check out the Streamlit Dashboard](https://share.streamlit.io/your-link) *(replace with your actual deployment link)*
-
----
-
-## 🎯 Project Goals
-
-- Understand Disney+ content by **type**, **genre**, **rating**, and **release year**
-- Analyze **trends over time**, and explore top genres
-- Build an **interactive dashboard** for storytelling and insights
-- Add advanced features like:
-  - Mood-based recommendations
-  - Animated timeline 📊
-  - Data download 📂
-  - YouTube trailer links 🎥
 
 ---
 
