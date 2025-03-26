@@ -44,12 +44,19 @@ Includes metadata: title, type, rating, genres, and release dates
 
 Feature	Description
 🎛️ Sidebar filters	Filter by year, type, genre
+
 📊 Visual Tabs	Neatly separates insights into sections
+
 🧠 Insights beside charts	Clear takeaways throughout
+
 📈 Animated Timeline (Plotly)	See how Disney+ grew by year
+
 🤖 Mood-Based Recommender	Get genre picks based on how you feel
+
 🎬 “Surprise Me” Button	Random movie picker with trailer link
+
 📂 Download Button	Export filtered dataset
+
 🎨 Netflix-style Theme	Custom dark theme for a polished feel
 
 ---
