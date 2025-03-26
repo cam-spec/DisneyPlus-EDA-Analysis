@@ -60,8 +60,8 @@ Feature	Description
 🎨 Netflix-style Theme	Custom dark theme for a polished feel
 
 ---
-
-![Animated Timeline Preview](animated_timeline_preview.png)
+🕒 Animated Timeline Preview  
+![Animated Timeline Preview](./animated_timeline_preview.png)
 
 
 ---
