@@ -19,17 +19,45 @@ Exploratory Data Analysis of Disney+ Movies & TV Shows dataset using Python.
 | Phase 3 | Intermediate Analysis | following week |
 | Phase 4 | Final Touches & Sharing | March 25|
 
-## 📂 Folder Structure
+# 📺 DisneyPlus EDA & Interactive Dashboard
 
-```
-disney-plus-analysis/
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks
-├── visuals/             # Exported visualizations
-├── README.md            # Project overview and goals
-├── requirements.txt     # Python dependencies
+> **Exploratory Data Analysis** + **Interactive Dashboard** on Disney+ Movies & TV Shows using Python and Streamlit.
+
+![Dashboard Screenshot](https://your-screenshot-link-or-gif.gif) <!-- Optional: Replace with your own image/GIF link -->
+
+---
+
+## 🚀 Live App
+
+🔗 [Check out the Streamlit Dashboard](https://share.streamlit.io/your-link) *(replace with your actual deployment link)*
+
+---
+
+## 🎯 Project Goals
+
+- Understand Disney+ content by **type**, **genre**, **rating**, and **release year**
+- Analyze **trends over time**, and explore top genres
+- Build an **interactive dashboard** for storytelling and insights
+- Add advanced features like:
+  - Mood-based recommendations
+  - Animated timeline 📊
+  - Data download 📂
+  - YouTube trailer links 🎥
+
+---
+
+## 🗂️ Folder Structure
+
+```bash
+disneyplus_dashboard/
+│
+├── data/                   # Cleaned dataset
+├── app.py                 # Streamlit dashboard app
+├── visuals/               # Exported charts (optional)
+├── README.md              # Project documentation
+├── requirements.txt       # Python dependencies
 └── .gitignore
-```
+
 
 ## 📊 Dataset
 
