@@ -92,7 +92,7 @@ GitHub (project hosting and README)
 ---
 📥 How to Run Locally
 
-## Running the Streamlit App Locally
+To run the Disney+ Dashboard on your own machine:
 
 1. **Clone the repository:**
    ```bash
@@ -110,6 +110,10 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+📂 Note:
+Make sure the dataset file (cleaned_disney_plus_titles.csv) is in the same directory as app.py.
+If not, update the file path in the script to match your setup.
+Since the original path points to a local machine, you’ll need to adjust it for your own directory.
 ---
 
 ## 📓 Notebooks
