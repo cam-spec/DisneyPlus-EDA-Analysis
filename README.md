@@ -105,13 +105,11 @@ Explore the step-by-step EDA process and feature experimentation using Jupyter N
 - [DisneyPlus Phase 2: EDA + Feature Engineering](DisneyPlus_Phase3_FINAL%20(3).ipynb): Final visualizations, modeling ideas, and insights before deployment to Streamlit.
 - [GitHubProject.ipynb](GithubProject%20(1).ipynb): Supporting project analysis and visualization testing.
 - 
-- 📂 **Note:**  
-Make sure the dataset file (`cleaned_disney_plus_titles.csv`) is in the same directory as the notebook or app script.  
-If not, you may need to update the file path accordingly in your code.
-Since the directory is on my computer download the file and use your own directory to run the code.
+📂 Note:
+Make sure the dataset file (cleaned_disney_plus_titles.csv) is in the same directory as the notebook or app script.
 
-Each notebook complements the dashboard by showing behind-the-scenes development and reasoning.
-
+If you're running the code locally and encounter a file path error, it's likely because the original path points to my local computer setup.
+To fix this, simply download the dataset and update the path in your code to match your own directory structure.
 ---
 
 🧪 Example Output from EDA Notebook – Content Rating Distribution
