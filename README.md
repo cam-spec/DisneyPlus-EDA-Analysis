@@ -92,14 +92,19 @@ GitHub (project hosting and README)
 ---
 📥 How to Run Locally
 
-To explore this project locally, follow these steps 👇
+## Running the Streamlit App Locally
 
-git clone https://github.com/cam-spec/DisneyPlus-EDA-Analysis.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/cam-spec/DisneyPlus-EDA-Analysis.git
+   
+2.Navigate to the project directory:
+cd DisneyPlus-EDA-Analysis
 
-cd disneyplus_dashboard
-
+3. Install the required packages:
 pip install -r requirements.txt
 
+4.Run the Streamlit application:
 streamlit run app.py
 
 ---
