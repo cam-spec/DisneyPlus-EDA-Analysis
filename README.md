@@ -68,6 +68,10 @@ Feature	Description
 ---
 ## 🚀 Live App
 
+## 🌐 Live Dashboard (Hosted on Streamlit Cloud)
+
+Want to try the app without setting anything up locally?
+
 🔗 [Check out the Streamlit Dashboard](https://disneyplus-eda-analysis-gfyfny4vyfxhmd5lzb6ywg.streamlit.app)
 
 
