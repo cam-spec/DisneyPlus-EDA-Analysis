@@ -99,12 +99,15 @@ GitHub (project hosting and README)
    git clone https://github.com/cam-spec/DisneyPlus-EDA-Analysis.git
    
 2.Navigate to the project directory:
+
 cd DisneyPlus-EDA-Analysis
 
 3. Install the required packages:
+
 pip install -r requirements.txt
 
 4.Run the Streamlit application:
+
 streamlit run app.py
 
 ---
