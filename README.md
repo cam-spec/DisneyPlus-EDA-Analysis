@@ -73,6 +73,8 @@ Want to try the app without setting anything up locally?
 
 🔗 [Check out the Streamlit Dashboard](https://disneyplus-eda-analysis-gfyfny4vyfxhmd5lzb6ywg.streamlit.app)
 
+No installation needed — it's all in the cloud via Streamlit!
+
 ---
 ## 🔧 Tools & Libraries Used
 🔧 Tools & Libraries Used
