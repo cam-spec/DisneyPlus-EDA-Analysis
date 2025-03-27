@@ -107,9 +107,9 @@ Explore the step-by-step EDA process and feature experimentation using Jupyter N
 - 
 📂 Note:
 Make sure the dataset file (cleaned_disney_plus_titles.csv) is in the same directory as the notebook or app script.
-
 If you're running the code locally and encounter a file path error, it's likely because the original path points to my local computer setup.
 To fix this, simply download the dataset and update the path in your code to match your own directory structure.
+
 ---
 
 🧪 Example Output from EDA Notebook – Content Rating Distribution
