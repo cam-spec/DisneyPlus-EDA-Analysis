@@ -66,7 +66,6 @@ Feature	Description
 
 
 ---
-## 🚀 Live App
 
 ## 🌐 Live Dashboard (Hosted on Streamlit Cloud)
 
